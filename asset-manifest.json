@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/axios-gh-pages/static/css/main.073c9b0a.css",
+    "main.js": "/axios-gh-pages/static/js/main.ee8daa8c.js",
+    "index.html": "/axios-gh-pages/index.html",
+    "main.073c9b0a.css.map": "/axios-gh-pages/static/css/main.073c9b0a.css.map",
+    "main.ee8daa8c.js.map": "/axios-gh-pages/static/js/main.ee8daa8c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.ee8daa8c.js"
+  ]
+}
